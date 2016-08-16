@@ -1,1 +1,1 @@
-Skeleton for creating documentations using Sphinx.
+https://tedboy.github.io/statsmodels_doc/
