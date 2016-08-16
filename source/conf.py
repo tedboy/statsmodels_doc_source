@@ -99,6 +99,7 @@ language = None
 # This patterns also effect to html_static_path and html_extra_path
 exclude_patterns = [
 # 'main.rst',
+'doc/index.rst',
 # 'demo_automodule.rst',
 # 'test3.rst',
 #'templates',

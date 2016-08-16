@@ -14,4 +14,4 @@ Skeleton for creating my doc. Use of sphinx ``autosummary`` saved my life.
 
    main.rst
    submain.rst
-   doc/index.rst
+..   doc/index.rst

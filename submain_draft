@@ -114,3 +114,63 @@ datasets available
     statsmodels.datasets.statecrime
     statsmodels.datasets.strikes
     statsmodels.datasets.sunspots
+
+*******************
+statsmodel.duration
+*******************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.duration.hazard_regression
+    
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.duration.hazard_regression    
+
+******************
+statsmodel.formula
+******************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.formula.api
+    generated/statsmodels.formula.formulatools
+
+    
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.formula.api
+    statsmodels.formula.formulatools
+
+****************
+statsmodel.iolib
+****************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.iolib.api
+    generated/statsmodels.iolib.foreign
+    generated/statsmodels.iolib.smpickle
+    generated/statsmodels.iolib.stata_summary_examples
+    generated/statsmodels.iolib.summary
+    generated/statsmodels.iolib.summary2
+    generated/statsmodels.iolib.table
+    generated/statsmodels.iolib.tableformatting
+
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.iolib.api
+    statsmodels.iolib.foreign
+    statsmodels.iolib.smpickle
+    statsmodels.iolib.stata_summary_examples
+    statsmodels.iolib.summary
+    statsmodels.iolib.summary2
+    statsmodels.iolib.table
+    statsmodels.iolib.tableformatting    

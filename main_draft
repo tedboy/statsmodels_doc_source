@@ -2,6 +2,149 @@
 ########################
 Main modules of interest
 ########################
+*******************
+statsmodel.discrete
+*******************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.discrete.discrete_margins
+    generated/statsmodels.discrete.discrete_model
+    
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.discrete.discrete_margins
+    statsmodels.discrete.discrete_model
+
+************************
+statsmodel.distributions
+************************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.distributions
+    generated/statsmodels.distributions.edgeworth
+    generated/statsmodels.distributions.empirical_distribution
+    generated/statsmodels.distributions.mixture_rvs
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.distributions
+    statsmodels.distributions.edgeworth
+    statsmodels.distributions.empirical_distribution
+    statsmodels.distributions.mixture_rvs
+
+******************
+statsmodel.emplike
+******************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.emplike.api
+    generated/statsmodels.emplike.aft_el
+    generated/statsmodels.emplike.descriptive
+    generated/statsmodels.emplike.elanova
+    generated/statsmodels.emplike.elregress
+    generated/statsmodels.emplike.originregress
+..    generated/statsmodels.emplike.koul_and_mc
+    
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.emplike.api
+    statsmodels.emplike.aft_el
+    statsmodels.emplike.descriptive
+    statsmodels.emplike.elanova
+    statsmodels.emplike.elregress
+    statsmodels.emplike.originregress
+..    statsmodels.emplike.koul_and_mc <- causes exception
+
+
+*****************
+statsmodel.genmod
+*****************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.genmod.api
+    generated/statsmodels.genmod.cov_struct
+    generated/statsmodels.genmod.generalized_estimating_equations
+    generated/statsmodels.genmod.generalized_linear_model
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.genmod.api
+    statsmodels.genmod.cov_struct
+    statsmodels.genmod.generalized_estimating_equations
+    statsmodels.genmod.generalized_linear_model
+
+statsmodel.genmod.families
+==========================
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.genmod.families
+    generated/statsmodels.genmod.families.family
+    generated/statsmodels.genmod.families.links
+    generated/statsmodels.genmod.families.varfuncs
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.genmod.families
+    statsmodels.genmod.families.family
+    statsmodels.genmod.families.links
+    statsmodels.genmod.families.varfuncs
+
+*******************
+statsmodel.graphics
+*******************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.graphics.api
+    generated/statsmodels.graphics.api
+    generated/statsmodels.graphics.boxplots
+    generated/statsmodels.graphics.correlation
+    generated/statsmodels.graphics.dotplots
+    generated/statsmodels.graphics.factorplots
+    generated/statsmodels.graphics.functional
+    generated/statsmodels.graphics.gofplots
+    generated/statsmodels.graphics.mosaicplot
+    generated/statsmodels.graphics.plot_grids
+    generated/statsmodels.graphics.plottools
+    generated/statsmodels.graphics.regressionplots
+    generated/statsmodels.graphics.tsaplots
+    generated/statsmodels.graphics.tukeyplot
+    generated/statsmodels.graphics.utils
+    
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.graphics.api
+    statsmodels.graphics.boxplots
+    statsmodels.graphics.correlation
+    statsmodels.graphics.dotplots
+    statsmodels.graphics.factorplots
+    statsmodels.graphics.functional
+    statsmodels.graphics.gofplots
+    statsmodels.graphics.mosaicplot
+    statsmodels.graphics.plot_grids
+    statsmodels.graphics.plottools
+    statsmodels.graphics.regressionplots
+    statsmodels.graphics.tsaplots
+    statsmodels.graphics.tukeyplot
+    statsmodels.graphics.utils    
 
 **********************
 statsmodels.regression
