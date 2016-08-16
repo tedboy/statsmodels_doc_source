@@ -1,0 +1,1 @@
+Skeleton for creating documentations using Sphinx.

@@ -1,0 +1,54 @@
+
+########################
+Main modules of interest
+########################
+
+**********************
+statsmodels.regression
+**********************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.regression.feasible_gls
+    generated/statsmodels.regression.linear_model
+    generated/statsmodels.regression.mixed_linear_model
+    generated/statsmodels.regression.quantile_regression
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.regression.feasible_gls
+    statsmodels.regression.linear_model
+    statsmodels.regression.mixed_linear_model
+    statsmodels.regression.quantile_regression
+
+*************************
+statsmodels.nonparametric
+*************************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.nonparametric.api
+    generated/statsmodels.nonparametric.bandwidths
+    generated/statsmodels.nonparametric.kde
+    generated/statsmodels.nonparametric.kdetools
+    generated/statsmodels.nonparametric.kernel_density
+    generated/statsmodels.nonparametric.kernel_regression
+    generated/statsmodels.nonparametric.kernels
+    generated/statsmodels.nonparametric.smoothers_lowess_old
+    generated/statsmodels.nonparametric.smoothers_lowess
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.nonparametric.api
+    statsmodels.nonparametric.bandwidths
+    statsmodels.nonparametric.kde
+    statsmodels.nonparametric.kdetools
+    statsmodels.nonparametric.kernel_density
+    statsmodels.nonparametric.kernel_regression
+    statsmodels.nonparametric.kernels
+    statsmodels.nonparametric.smoothers_lowess_old
+    statsmodels.nonparametric.smoothers_lowess

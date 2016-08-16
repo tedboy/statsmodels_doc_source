@@ -1,0 +1,116 @@
+#########################
+Other modules of interest
+#########################
+
+
+***************
+statsmodel.base
+***************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.base
+    generated/statsmodels.base._constraints
+    generated/statsmodels.base.covtype
+    generated/statsmodels.base.data
+    generated/statsmodels.base.l1_cvxopt
+    generated/statsmodels.base.l1_slsqp
+    generated/statsmodels.base.l1_solvers_common
+    generated/statsmodels.base.model
+    generated/statsmodels.base.optimizer
+    generated/statsmodels.base._penalties
+    generated/statsmodels.base.wrapper
+    
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.base
+    statsmodels.base._constraints
+    statsmodels.base.covtype
+    statsmodels.base.data
+    statsmodels.base.l1_cvxopt
+    statsmodels.base.l1_slsqp
+    statsmodels.base.l1_solvers_common
+    statsmodels.base.model
+    statsmodels.base.optimizer
+    statsmodels.base._penalties
+    statsmodels.base.wrapper
+
+*******************
+statsmodel.datasets
+*******************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.datasets
+    generated/statsmodels.datasets.utils
+    generated/statsmodels.datasets.template_data
+    
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.datasets
+    statsmodels.datasets.utils
+    statsmodels.datasets.template_data
+
+datasets available
+------------------
+.. toctree::
+    :maxdepth:1
+    :hidden:
+
+    generated/statsmodels.datasets.anes96
+    generated/statsmodels.datasets.cancer
+    generated/statsmodels.datasets.ccard
+    generated/statsmodels.datasets.co2
+    generated/statsmodels.datasets.committee
+    generated/statsmodels.datasets.copper
+    generated/statsmodels.datasets.cpunish
+    generated/statsmodels.datasets.elnino
+    generated/statsmodels.datasets.engel
+    generated/statsmodels.datasets.fair
+    generated/statsmodels.datasets.grunfeld
+    generated/statsmodels.datasets.heart
+    generated/statsmodels.datasets.longley
+    generated/statsmodels.datasets.macrodata
+    generated/statsmodels.datasets.modechoice
+    generated/statsmodels.datasets.nile
+    generated/statsmodels.datasets.randhie
+    generated/statsmodels.datasets.scotland
+    generated/statsmodels.datasets.spector
+    generated/statsmodels.datasets.stackloss
+    generated/statsmodels.datasets.star98
+    generated/statsmodels.datasets.statecrime
+    generated/statsmodels.datasets.strikes
+    generated/statsmodels.datasets.sunspots
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.datasets.anes96
+    statsmodels.datasets.cancer
+    statsmodels.datasets.ccard
+    statsmodels.datasets.co2
+    statsmodels.datasets.committee
+    statsmodels.datasets.copper
+    statsmodels.datasets.cpunish
+    statsmodels.datasets.elnino
+    statsmodels.datasets.engel
+    statsmodels.datasets.fair
+    statsmodels.datasets.grunfeld
+    statsmodels.datasets.heart
+    statsmodels.datasets.longley
+    statsmodels.datasets.macrodata
+    statsmodels.datasets.modechoice
+    statsmodels.datasets.nile
+    statsmodels.datasets.randhie
+    statsmodels.datasets.scotland
+    statsmodels.datasets.spector
+    statsmodels.datasets.stackloss
+    statsmodels.datasets.star98
+    statsmodels.datasets.statecrime
+    statsmodels.datasets.strikes
+    statsmodels.datasets.sunspots
