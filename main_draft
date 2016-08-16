@@ -146,25 +146,30 @@ statsmodel.graphics
     statsmodels.graphics.tukeyplot
     statsmodels.graphics.utils    
 
-**********************
-statsmodels.regression
-**********************
+*********************
+statsmodel.miscmodels
+*********************
 .. toctree::
     :maxdepth: 1
 
-    generated/statsmodels.regression.feasible_gls
-    generated/statsmodels.regression.linear_model
-    generated/statsmodels.regression.mixed_linear_model
-    generated/statsmodels.regression.quantile_regression
+    generated/statsmodels.miscmodels.api
+    generated/statsmodels.miscmodels.count
+    generated/statsmodels.miscmodels.nonlinls
+    generated/statsmodels.miscmodels.tmodel
+    generated/statsmodels.miscmodels.try_mlecov
+
 
 .. autosummary::
    :toctree:generated/
    :template:module_custom.rst
 
-    statsmodels.regression.feasible_gls
-    statsmodels.regression.linear_model
-    statsmodels.regression.mixed_linear_model
-    statsmodels.regression.quantile_regression
+    statsmodels.miscmodels.api
+    statsmodels.miscmodels.count
+    statsmodels.miscmodels.nonlinls
+    statsmodels.miscmodels.tmodel
+    statsmodels.miscmodels.try_mlecov
+
+
 
 *************************
 statsmodels.nonparametric
@@ -195,3 +200,42 @@ statsmodels.nonparametric
     statsmodels.nonparametric.kernels
     statsmodels.nonparametric.smoothers_lowess_old
     statsmodels.nonparametric.smoothers_lowess
+
+**********************
+statsmodels.regression
+**********************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.regression.feasible_gls
+    generated/statsmodels.regression.linear_model
+    generated/statsmodels.regression.mixed_linear_model
+    generated/statsmodels.regression.quantile_regression
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.regression.feasible_gls
+    statsmodels.regression.linear_model
+    statsmodels.regression.mixed_linear_model
+    statsmodels.regression.quantile_regression
+
+*****************
+statsmodel.robust
+*****************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.robust.norms
+    generated/statsmodels.robust.robust_linear_model
+    generated/statsmodels.robust.scale
+
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.robust.norms
+    statsmodels.robust.robust_linear_model
+    statsmodels.robust.scale    

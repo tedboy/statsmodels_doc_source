@@ -19,12 +19,27 @@ Main modules of interest
 ..    statsmodels.api
 
 
+*****************
+statsmodel.robust
+*****************
+.. toctree::
+    :maxdepth: 1
 
+    generated/statsmodels.robust.norms
+    generated/statsmodels.robust.robust_linear_model
+    generated/statsmodels.robust.scale
+
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.robust.norms
+    statsmodels.robust.robust_linear_model
+    statsmodels.robust.scale
 
 
 ..  comments    
-    statsmodels.miscmodels
-    statsmodels.robust
     statsmodels.sandbox
     statsmodels.stats
     statsmodels.tests
