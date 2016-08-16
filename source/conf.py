@@ -65,7 +65,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'My Project'
+project = u'Statsmodels API'
 copyright = u'2016'
 author = u''
 

@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-statsmodels
-=============
-Skeleton for creating my doc. Use of sphinx ``autosummary`` saved my life.
+Statsmodels API
+===============
+Statsmodels API for my taste.
 
 .. toctree::
    :maxdepth: 2
