@@ -1,12 +1,6 @@
-.. toctree::
-    :maxdepth: 1
+#######
+Mai API
+#######
 
-    generated/statsmodels.api
 
-
-.. autosummary::
-   :toctree:generated/
-   :template:module_custom.rst
-
-    statsmodels.api
 

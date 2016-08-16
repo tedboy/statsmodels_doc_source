@@ -100,7 +100,7 @@ language = None
 exclude_patterns = [
 # 'main.rst',
 # 'sandbox.rst',
-'doc/index.rst',
+# 'doc/index.rst',
 # 'demo_automodule.rst',
 # 'test3.rst',
 #'templates',
