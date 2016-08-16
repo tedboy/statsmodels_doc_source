@@ -13,7 +13,8 @@ Skeleton for creating my doc. Use of sphinx ``autosummary`` saved my life.
    :caption: Table of Contents
 
    main_api.rst
+   main.rst
    submain.rst
    sandbox.rst
    sandbox2.rst
-   doc/index.rst
+..   doc/index.rst
