@@ -2,6 +2,21 @@
 ########################
 Main modules of interest
 ########################
+**********
+statsmodel
+**********
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels
+
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels
+    
 *******************
 statsmodel.discrete
 *******************
@@ -239,3 +254,60 @@ statsmodel.robust
     statsmodels.robust.norms
     statsmodels.robust.robust_linear_model
     statsmodels.robust.scale    
+
+****************
+statsmodel.stats
+****************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.stats.api
+    generated/statsmodels.stats.adnorm
+    generated/statsmodels.stats.anova
+    generated/statsmodels.stats.base
+    generated/statsmodels.stats.contrast
+    generated/statsmodels.stats.correlation_tools
+    generated/statsmodels.stats.descriptivestats
+    generated/statsmodels.stats.diagnostic
+    generated/statsmodels.stats.gof
+    generated/statsmodels.stats.inter_rater
+    generated/statsmodels.stats.lilliefors
+    generated/statsmodels.stats.moment_helpers
+    generated/statsmodels.stats.multicomp
+    generated/statsmodels.stats.multitest
+    generated/statsmodels.stats.multivariate_tools
+    generated/statsmodels.stats.outliers_influence
+    generated/statsmodels.stats.power
+    generated/statsmodels.stats.proportion
+    generated/statsmodels.stats.sandwich_covariance
+    generated/statsmodels.stats.stattools
+    generated/statsmodels.stats.tabledist
+    generated/statsmodels.stats.weightstats
+
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.stats.api
+    statsmodels.stats.adnorm
+    statsmodels.stats.anova
+    statsmodels.stats.base
+    statsmodels.stats.contrast
+    statsmodels.stats.correlation_tools
+    statsmodels.stats.descriptivestats
+    statsmodels.stats.diagnostic
+    statsmodels.stats.gof
+    statsmodels.stats.inter_rater
+    statsmodels.stats.lilliefors
+    statsmodels.stats.moment_helpers
+    statsmodels.stats.multicomp
+    statsmodels.stats.multitest
+    statsmodels.stats.multivariate_tools
+    statsmodels.stats.outliers_influence
+    statsmodels.stats.power
+    statsmodels.stats.proportion
+    statsmodels.stats.sandwich_covariance
+    statsmodels.stats.stattools
+    statsmodels.stats.tabledist
+    statsmodels.stats.weightstats    

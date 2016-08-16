@@ -174,3 +174,175 @@ statsmodel.iolib
     statsmodels.iolib.summary2
     statsmodels.iolib.table
     statsmodels.iolib.tableformatting    
+
+****************
+statsmodel.tests
+****************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.tests.check_for_rpy
+    generated/statsmodels.tests.coverage_sm
+    generated/statsmodels.tests.rmodelwrap
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.tests.check_for_rpy
+    statsmodels.tests.coverage_sm
+    statsmodels.tests.rmodelwrap
+
+****************
+statsmodel.tools
+****************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.tools.catadd
+    generated/statsmodels.tools.compatibility
+    generated/statsmodels.tools.data
+    generated/statsmodels.tools.decorators
+    generated/statsmodels.tools.dump2module
+    generated/statsmodels.tools.eval_measures
+    generated/statsmodels.tools.grouputils
+    generated/statsmodels.tools.linalg
+    generated/statsmodels.tools.numdiff
+    generated/statsmodels.tools.parallel
+    generated/statsmodels.tools.rootfinding
+    generated/statsmodels.tools.sm_exceptions
+    generated/statsmodels.tools.testing
+    generated/statsmodels.tools.tools
+    generated/statsmodels.tools.transform_model
+    generated/statsmodels.tools.web
+..    generated/statsmodels.tools.wrappers
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.tools.catadd
+    statsmodels.tools.compatibility
+    statsmodels.tools.data
+    statsmodels.tools.decorators
+    statsmodels.tools.dump2module
+    statsmodels.tools.eval_measures
+    statsmodels.tools.grouputils
+    statsmodels.tools.linalg
+    statsmodels.tools.numdiff
+    statsmodels.tools.parallel
+    statsmodels.tools.rootfinding
+    statsmodels.tools.sm_exceptions
+    statsmodels.tools.testing
+    statsmodels.tools.tools
+    statsmodels.tools.transform_model
+    statsmodels.tools.web
+..    statsmodels.tools.wrappers <-raises exception        
+
+**************
+statsmodel.tsa
+**************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.tsa.api
+    generated/statsmodels.tsa.adfvalues
+    generated/statsmodels.tsa.ar_model
+    generated/statsmodels.tsa.arimsa_model
+    generated/statsmodels.tsa.arimsa_process
+    generated/statsmodels.tsa.arimsa_mle
+    generated/statsmodels.tsa.descriptivestats
+    generated/statsmodels.tsa.interp.denton
+    generated/statsmodels.tsa.kalmanf.kalmanfilter
+    generated/statsmodels.tsa.mlemodel
+    generated/statsmodels.tsa.seasonal
+    generated/statsmodels.tsa.tsatools
+    generated/statsmodels.tsa.varma_process
+    generated/statsmodels.tsa.x13
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.tsa.api
+    statsmodels.tsa.adfvalues
+    statsmodels.tsa.ar_model
+    statsmodels.tsa.arimsa_model
+    statsmodels.tsa.arimsa_process
+    statsmodels.tsa.arimsa_mle
+    statsmodels.tsa.descriptivestats
+    statsmodels.tsa.interp.denton
+    statsmodels.tsa.kalmanf.kalmanfilter
+    statsmodels.tsa.mlemodel
+    statsmodels.tsa.seasonal
+    statsmodels.tsa.tsatools
+    statsmodels.tsa.varma_process
+    statsmodels.tsa.x13
+
+
+statsmodels.tsa.base
+====================
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.tsa.base.datetools
+    generated/statsmodels.tsa.base.tsa_model
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.tsa.base.datetools
+    statsmodels.tsa.base.tsa_model
+
+statsmodels.tsa.filters
+=======================
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.tsa.filters.api
+    generated/statsmodels.tsa.filters._utils
+    generated/statsmodels.tsa.filters.bk_filter
+    generated/statsmodels.tsa.filters.cf_filter
+    generated/statsmodels.tsa.filters.filtertools
+    generated/statsmodels.tsa.filters.hp_filter
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.tsa.filters.api
+    statsmodels.tsa.filters._utils
+    statsmodels.tsa.filters.bk_filter
+    statsmodels.tsa.filters.cf_filter
+    statsmodels.tsa.filters.filtertools
+    statsmodels.tsa.filters.hp_filter
+
+.. waste of space...
+   statsmodels.tsa.tests
+   =====================
+   .. toctree::
+       :maxdepth: 1
+
+       generated/statsmodels.tsa.tests.test_adfuller_lag
+       generated/statsmodels.tsa.tests.test_ar
+       generated/statsmodels.tsa.tests.test_arima_process
+       generated/statsmodels.tsa.tests.test_arima
+       generated/statsmodels.tsa.tests.test_seasonal
+       generated/statsmodels.tsa.tests.test_stattools
+       generated/statsmodels.tsa.tests.test_tsa_tools
+       generated/statsmodels.tsa.tests.test_x13
+
+   .. autosummary::
+      :toctree:generated/
+      :template:module_custom.rst
+
+       statsmodels.tsa.tests.test_adfuller_lag
+       statsmodels.tsa.tests.test_ar
+       statsmodels.tsa.tests.test_arima_process
+       statsmodels.tsa.tests.test_arima
+       statsmodels.tsa.tests.test_seasonal
+       statsmodels.tsa.tests.test_stattools
+       statsmodels.tsa.tests.test_tsa_tools
+       statsmodels.tsa.tests.test_x13
+

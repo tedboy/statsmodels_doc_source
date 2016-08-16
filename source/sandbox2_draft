@@ -226,4 +226,89 @@ statsmodels.sandbox.stats
     statsmodels.sandbox.stats.multicomp
     statsmodels.sandbox.stats.runs
     statsmodels.sandbox.stats.stats_dhuard
-    statsmodels.sandbox.stats.stats_mstats_short.py   
+    statsmodels.sandbox.stats.stats_mstats_short.py
+
+*************************
+statsmodels.sandbox.tests
+*************************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.sandbox.tests
+    generated/statsmodels.sandbox.tests.datamlw
+    generated/statsmodels.sandbox.tests.maketests_mlabwrap
+    generated/statsmodels.sandbox.tests.model_results
+    generated/statsmodels.sandbox.tests.savervs
+    generated/statsmodels.sandbox.tests.test_formula
+    generated/statsmodels.sandbox.tests.test_gam
+    generated/statsmodels.sandbox.tests.test_pca
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.sandbox.tests
+    statsmodels.sandbox.tests.datamlw
+    statsmodels.sandbox.tests.maketests_mlabwrap
+    statsmodels.sandbox.tests.model_results
+    statsmodels.sandbox.tests.savervs
+    statsmodels.sandbox.tests.test_formula
+    statsmodels.sandbox.tests.test_gam
+    statsmodels.sandbox.tests.test_pca
+
+*************************
+statsmodels.sandbox.tools
+*************************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.sandbox.tools
+    generated/statsmodels.sandbox.tools.cross_val
+    generated/statsmodels.sandbox.tools.mctools
+    generated/statsmodels.sandbox.tools.tools_pca
+    generated/statsmodels.sandbox.tools.try_mctools
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.sandbox.tools
+    statsmodels.sandbox.tools.cross_val
+    statsmodels.sandbox.tools.mctools
+    statsmodels.sandbox.tools.tools_pca
+    statsmodels.sandbox.tools.try_mctools
+
+
+***********************
+statsmodels.sandbox.tsa
+***********************
+.. toctree::
+    :maxdepth: 1
+
+    generated/statsmodels.sandbox.tsa
+    generated/statsmodels.sandbox.tsa.diffusion
+    generated/statsmodels.sandbox.tsa.diffusion2
+    generated/statsmodels.sandbox.tsa.example_arma
+    generated/statsmodels.sandbox.tsa.fftarma
+    generated/statsmodels.sandbox.tsa.garch
+    generated/statsmodels.sandbox.tsa.movstat
+    generated/statsmodels.sandbox.tsa.try_arma_more
+    generated/statsmodels.sandbox.tsa.try_fi
+    generated/statsmodels.sandbox.tsa.try_var_convolve
+    generated/statsmodels.sandbox.tsa.varma
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    statsmodels.sandbox.tsa
+    statsmodels.sandbox.tsa.diffusion
+    statsmodels.sandbox.tsa.diffusion2
+    statsmodels.sandbox.tsa.example_arma
+    statsmodels.sandbox.tsa.fftarma
+    statsmodels.sandbox.tsa.garch
+    statsmodels.sandbox.tsa.movstat
+    statsmodels.sandbox.tsa.try_arma_more
+    statsmodels.sandbox.tsa.try_fi
+    statsmodels.sandbox.tsa.try_var_convolve
+    statsmodels.sandbox.tsa.varma       
