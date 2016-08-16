@@ -9,3 +9,9 @@ From bottom of this page: http://statsmodels.sourceforge.net/stable/index.html
     :caption: Table of Contents
 
     gettingstarted.rst
+    example_formulas.rst
+    about.rst
+    endog_exog.rst
+    importpaths.rst
+    pitfalls.rst
+    internal.rst

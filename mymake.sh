@@ -4,6 +4,7 @@
 #=============================================================================#
 make clean
 rm -r ./source/generated*
+rm -r ./source/*/generated*
 # mkdir ./source/generated
 # mkdir ./source/generated/generated
 # cp -r ./source/_templates ./source/generated/
